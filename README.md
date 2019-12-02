@@ -24,4 +24,4 @@ data(){
 }
 ```
 ## 效果
-![效果](./images/1.gif)
+![效果](https://raw.githubusercontent.com/xiansongbai/count-up/master/images/1.gif)
